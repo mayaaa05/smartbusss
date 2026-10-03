@@ -1,0 +1,18 @@
+{
+  "name": "smartbus",
+  "version": "1.0.0",
+  "description": "SmartBus - Online Bus Reservation System",
+  "main": "index.php",
+  "scripts": {
+    "dev": "C:\\xampp\\php\\php.exe -S localhost:8000",
+    "start": "C:\\xampp\\php\\php.exe -S localhost:8000",
+    "serve": "C:\\xampp\\php\\php.exe -S localhost:8000"
+  },
+  "keywords": [
+    "php",
+    "smartbus",
+    "reservation"
+  ],
+  "author": "",
+  "license": "ISC"
+}
